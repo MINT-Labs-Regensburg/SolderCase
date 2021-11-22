@@ -29,17 +29,18 @@ The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
 - solder iron
 - wire stripper
 - wood glue
+<img src="images/tools.jpg" width=300px alt="tools">
 
 
 ## Preparation
 Prepare the following wires with ferrules and cable lugs as shown in the picture below:
-- all parts can be found in the BoM.elsx / BoM.pdf
+- all parts can be found in the BoM.xlsx / BoM.pdf
 - [1] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end (for the uSB-PD converter)
 - [2] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end and cable lugs on the other (for the barrel connector)
 - [3] 15cm strand, 0,75mm^2, ferrule on one end
 - [4] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire)
 - [5] ferrule on negative side of the PC fan (brown/black wire)
-
+<img src="images/preparation.jpg" width=300px alt="prep">
 
 ## Built
 
@@ -48,6 +49,7 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - put in the two switches into the front panel
 - attach the USB-PD housing with 2 screws M3x6 countersunk with nuts
 - Prepare the PC fan: fan grille, PC fan (sticker should look through the grille), spacer, filter
+<img src="images/woodenParts.jpg" width=300px alt="woodenParts">
 
 
 ### Electrical Installation
@@ -57,6 +59,12 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - solder the twin strand wire [4] to the LED band. Notice the polarity and the directionality!
 - solder the remaining cables (positive side, red) from the LED band and the PC fan to the respective switches
 - put all cables (positive and negative ones) into the two electrical installation clamps, one is for negative (GND) and one for positive (24V). On the positive clamp you should have the barrel connector, the switches, the USB-PD converter. On the negative one you should have the barrel connector, the LED-band, the PC-fan and the the USB-PD converter
+<p float="left">
+  <img src="images/cables_1.jpg" width=300px alt="cables_1" />
+  <img src="images/cables_2.jpg" width=300px alt="cables_2" /> 
+  <img src="images/cables_3.jpg" width=300px alt="cables_3" />
+</p>
+<img src="images/woodenParts.jpg" width=300px alt="woodenParts">
 
 
 ### Metal Toolbox
