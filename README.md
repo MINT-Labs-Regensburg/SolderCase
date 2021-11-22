@@ -1,6 +1,9 @@
 # SolderCase
 a metal toolbox as an easy2built all-in-one solder station
 
+<img src="images/SolderCase.gif" width=500px alt="This is a Case">
+
+-> this page is still work in progress...
 
 
 ## LaserCut Parts
