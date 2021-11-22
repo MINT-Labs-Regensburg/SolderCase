@@ -52,7 +52,7 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 <p float="left">
   <img src="images/woodenParts.jpg" width=300px alt="woodenParts" />
   <img src="images/frontpanel.jpg" width=300px alt="frontpanel" /> 
-  <img src="images/PCfan.gif.jpg" width=600px alt="PCfan.gif" />
+  <img src="images/PCfan.gif" width=600px alt="PCfan.gif" />
 </p>
 
 ### Electrical Installation
