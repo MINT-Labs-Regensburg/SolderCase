@@ -37,9 +37,9 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - all parts can be found in the BoM.xlsx / BoM.pdf
 - [1] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end (for the uSB-PD converter)
 - [2] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end and cable lugs on the other (for the barrel connector)
-- [3] 15cm strand, 0,75mm^2, ferrule on one end
-- [4] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire)
-- [5] ferrule on negative side of the PC fan (brown/black wire)
+- [3] 15cm strand, 0,75mm^2, ferrule on one end and two (!) cable lugs (small) an the other
+- [4] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire), and one cable lug on the positive side (red wire)
+- [5] ferrule on negative side of the PC fan (brown/black wire) and cable lug on the positive side (red wire) (not shown in the picture)
 <img src="images/preparation.jpg" width=600px alt="prep">
 
 ## Built
@@ -58,10 +58,9 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 ### Electrical Installation
 - after soldering the cables (twin strand as in [1]) put in the USB-PD converter and fix ith with the zip tie
 - attach the cable lugs of the twin strand wirde [2] to the barrel connector
-- solder the single strand wire [3] to both switches
-- solder the twin strand wire [4] to the LED band. Notice the polarity and the directionality!
-- solder the remaining cables (positive side, red) from the LED band and the PC fan to the respective switches
-- put all cables (positive and negative ones) into the two electrical installation clamps, one is for negative (GND) and one for positive (24V). On the positive clamp you should have the barrel connector, the switches, the USB-PD converter. On the negative one you should have the barrel connector, the LED-band, the PC-fan and the the USB-PD converter
+- solder the twin strand wire [4] to the LED band. Notice the polarity of the solder pads and the directionality of the LED-band itself!
+- connect the remaining cables (positive side, red) from the LED band and the PC fan to the respective switches
+- put all cables (positive and negative ones) into the two electrical installation clamps, one is for negative (GND) and one for positive (24V). On the positive clamp you should have the barrel connector (red), the switches, the USB-PD converter (red). On the negative one you should have the barrel connector (black), the LED-band (black), the PC-fan (black) and the the USB-PD converter (black)
 <p float="left">
   <img src="images/cables_1.jpg" width=300px alt="cables_1" />
   <img src="images/cables_2.jpg" width=300px alt="cables_2" /> 
@@ -74,7 +73,7 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 
 
 ### Metal Toolbox
-- Prepare the metal toolbox as described in the file metalWorking\drillings.svg
+- Prepare the metal toolbox as described in the file metalCaseDrilling\drillings.svg
 
 
 ### Finishing
