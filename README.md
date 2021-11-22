@@ -86,6 +86,10 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - Check functionality of fan, LEDs, solder iron
 - Using double-sided adhesive tape, attach the remaining MDF-plate to the lit; this is used as a pad inside the lit for soldering
 
+## What's up next?
+Five of these SolderCases fit perfectly in a standard sized Eurobox (400x600x300mm) with enough space for one extra box containing some special tools, spare parts, etc.
+
+
 ---
 
 ## Credits
