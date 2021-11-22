@@ -35,10 +35,10 @@ The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
 ## Preparation
 Prepare the following wires with ferrules and cable lugs as shown in the picture below:
 - all parts can be found in the BoM.xlsx / BoM.pdf
-- [1] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end (for the uSB-PD converter)
+- [1] 15cm strand, 0,75mm^2, ferrule on one end and two (!) cable lugs (small) an the other
 - [2] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end and cable lugs on the other (for the barrel connector)
-- [3] 15cm strand, 0,75mm^2, ferrule on one end and two (!) cable lugs (small) an the other
-- [4] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire), and one cable lug on the positive side (red wire)
+- [3] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire), and one cable lug on the positive side (red wire)
+- [4] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end (for the uSB-PD converter)
 - [5] ferrule on negative side of the PC fan (brown/black wire) and cable lug on the positive side (red wire) (not shown in the picture)
 <img src="images/preparation.jpg" width=600px alt="prep">
 
@@ -62,13 +62,13 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - connect the remaining cables (positive side, red) from the LED band and the PC fan to the respective switches
 - put all cables (positive and negative ones) into the two electrical installation clamps, one is for negative (GND) and one for positive (24V). On the positive clamp you should have the barrel connector (red), the switches, the USB-PD converter (red). On the negative one you should have the barrel connector (black), the LED-band (black), the PC-fan (black) and the the USB-PD converter (black)
 <p float="left">
-  <img src="images/cables_1.jpg" width=300px alt="cables_1" />
-  <img src="images/cables_2.jpg" width=300px alt="cables_2" /> 
-  <img src="images/cables_3.jpg" width=300px alt="cables_3" />
-  <img src="images/cables_4.jpg" width=300px alt="cables_4" />
-  <img src="images/solderLED_1.jpg" width=300px alt="solderLED_1" />
-  <img src="images/solderLED_2.jpg" width=300px alt="solderLED_2" />
-  <img src="images/solderLED_3.jpg" width=300px alt="solderLED_3" />
+  <img src="images/cables_1.jpg" width=350px alt="cables_1" />
+  <img src="images/cables_2.jpg" width=350px alt="cables_2" /> 
+  <img src="images/cables_3.jpg" width=350px alt="cables_3" />
+  <img src="images/cables_4.jpg" width=350px alt="cables_4" />
+  <img src="images/solderLED_1.jpg" width=350px alt="solderLED_1" />
+  <img src="images/solderLED_2.jpg" width=350px alt="solderLED_2" />
+  <img src="images/solderLED_3.jpg" width=350px alt="solderLED_3" />
 </p>
 
 
@@ -89,8 +89,8 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 
 
 ## Credits
-- Thanks to Exxess from the Binary Kitchen e.V. for sharing the 3D-files
-- Special thanks to Timo from the Binary Kitchen e.V. for discussions, tests and design considerations - and for bringing up these nice, cheap red metal cases
+- Thanks to Exxess from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) for sharing the 3D-files
+- Special thanks to [Timo](https://github.com/marove2000) from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) for discussions, tests and design considerations - and for bringing up these nice, cheap red metal cases
 
 
 ## Copyright and Authorship
