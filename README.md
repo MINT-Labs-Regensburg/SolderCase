@@ -1,5 +1,5 @@
 # SolderCase
-a metal toolbox as an easy2built all-in-one solder station
+a metal toolbox as an easy2built all-in-one soldering station. It has workplace lighting, solder fume exractor with filter, USB-C power dostribution for soldering irons like [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) or TS80, space for tools and a desk pad.
 
 <img src="images/SolderCase.gif" width=500px alt="This is a Case">
 
