@@ -75,6 +75,8 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - Using double-sided adhesive tape, attach the remaining MDF-plate to the lit; this is used as a pad inside the lit for soldering
 
 
+## Credits
+- Special thanks to Exxess from the Binary Kitchen e.V. for sharing the 3D-files
 
 ## Copyright and Authorship
 This SolderCase is licenced under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [MINT-Labs Regensburg e.V.](https://www.mint-labs.de).
