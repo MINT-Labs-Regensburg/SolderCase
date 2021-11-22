@@ -3,8 +3,7 @@ a metal toolbox as an easy2built all-in-one solder station
 
 <img src="images/SolderCase.gif" width=500px alt="This is a Case">
 
--> this page is still work in progress...
-
+---
 
 ## LaserCut Parts
 The insert for the metal toolbox is made of 3mm thick mdf wood plates with size 560 x 500mm. The different colours stand for:
@@ -87,6 +86,7 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - Check functionality of fan, LEDs, solder iron
 - Using double-sided adhesive tape, attach the remaining MDF-plate to the lit; this is used as a pad inside the lit for soldering
 
+---
 
 ## Credits
 - Thanks to Exxess from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) for sharing the 3D-files
