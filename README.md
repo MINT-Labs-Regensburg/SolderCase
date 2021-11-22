@@ -5,14 +5,14 @@ a metal toolbox as an easy2built all-in-one soldering station. It has workplace 
 - [3D-printed Parts](#3d-printed-parts)
 - [Tools you need](#tools-you-need)
 - [Preparation](#preparation)
-- [Built]
-- [Wooden parts]
-- [Electrical Installation]
-- [Metal Toolbox]
-- [Finishing]
-- [What's up next?]
-- [Credits]
-- [Copyright and Authorship]
+- [Built](#built)
+- [Wooden parts](#wooden-parts)
+- [Electrical Installation](#electrical-installation)
+- [Metal Toolbox](#metal-toolbox)
+- [Finishing](#finishing)
+- [What's up next?](#what's-up-next?)
+- [Credits](#credits)
+- [Copyright and Authorship](#copyright-and-authorship)
 
 
 
