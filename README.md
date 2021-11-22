@@ -49,8 +49,10 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - put in the two switches into the front panel
 - attach the USB-PD housing with 2 screws M3x6 countersunk with nuts
 - Prepare the PC fan: fan grille, PC fan (sticker should look through the grille), spacer, filter
-<img src="images/woodenParts.jpg" width=300px alt="woodenParts">
-
+<p float="left">
+  <img src="images/woodenParts.jpg" width=300px alt="woodenParts" />
+  <img src="images/frontpanel.jpg" width=300px alt="frontpanel" /> 
+</p>
 
 ### Electrical Installation
 - after soldering the cables (twin strand as in [1]) put in the USB-PD converter and fix ith with the zip tie
@@ -63,8 +65,12 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
   <img src="images/cables_1.jpg" width=300px alt="cables_1" />
   <img src="images/cables_2.jpg" width=300px alt="cables_2" /> 
   <img src="images/cables_3.jpg" width=300px alt="cables_3" />
+  <img src="images/cables_4.jpg" width=300px alt="cables_4" />
+  <img src="images/solderLED_1.jpg" width=300px alt="solderLED_1" />
+  <img src="images/solderLED_2.jpg" width=300px alt="solderLED_2" />
+  <img src="images/solderLED_3.jpg" width=300px alt="solderLED_3" />
 </p>
-<img src="images/woodenParts.jpg" width=300px alt="woodenParts">
+
 
 
 ### Metal Toolbox
