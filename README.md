@@ -40,7 +40,7 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - [3] 15cm strand, 0,75mm^2, ferrule on one end
 - [4] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire)
 - [5] ferrule on negative side of the PC fan (brown/black wire)
-<img src="images/preparation.jpg" width=300px alt="prep">
+<img src="images/preparation.jpg" width=600px alt="prep">
 
 ## Built
 
@@ -73,25 +73,26 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 </p>
 
 
-
 ### Metal Toolbox
 - Prepare the metal toolbox as described in the file metalWorking\drillings.svg
 
 
 ### Finishing
 - Put the whole insert into the metal toolbox
-- drill the fou corner holes (diameter 3-3.2mm) through the wooden parts
+- drill the four corner holes (diameter 3-3.2mm) through the wooden parts
 - attach the wooden insert by four screws M3x8mm using 8 washers and 4 nuts
 - Put the barrel connector into place and screw it
 - Close the front panel, check that no cables are cut or bruised
-- Lock the front panel with the two screws M3x10 with two washer M3 and two nuts
-- Connect the power supply, connect a solder iron to the USB-C connector from the USB-PD converter
+- Lock the front panel with the two screws M3x10 with two washers M3 and two nuts
+- Connect the power supply; connect a solder iron to the USB-C connector from the USB-PD converter
 - Check functionality of fan, LEDs, solder iron
 - Using double-sided adhesive tape, attach the remaining MDF-plate to the lit; this is used as a pad inside the lit for soldering
 
 
 ## Credits
-- Special thanks to Exxess from the Binary Kitchen e.V. for sharing the 3D-files
+- Thanks to Exxess from the Binary Kitchen e.V. for sharing the 3D-files
+- Special thanks to Timo from the Binary Kitchen e.V. for discussions, tests and design considerations - and for bringing up these nice, cheap red metal cases
+
 
 ## Copyright and Authorship
 This SolderCase is licenced under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [MINT-Labs Regensburg e.V.](https://www.mint-labs.de).
