@@ -1,6 +1,8 @@
 # SolderCase
 a metal toolbox as an easy2built all-in-one soldering station. It has workplace lighting, solder fume exractor with filter, USB-C power dostribution for soldering irons like [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) or TS80, space for tools and a desk pad.
 
+It all started with the idea of simplifying solder workshops for all kinds of human beings. [Timo](https://github.com/marove2000) from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) had some [nice ideas](https://www.timoschindler.de/die-loetkiste-ein-koffer-mit-vollstaendigem-loetarbeitsplatz/).
+
 - [LaserCut Parts](#lasercut-parts)
 - [3D-printed Parts](#3d-printed-parts)
 - [Tools you need](#tools-you-need)
