@@ -3,6 +3,7 @@ a metal toolbox as an easy2built all-in-one soldering station. It has workplace 
 
 It all started with the idea of simplifying solder workshops for all kinds of human beings. [Timo](https://github.com/marove2000) from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) had some [nice ideas](https://www.timoschindler.de/die-loetkiste-ein-koffer-mit-vollstaendigem-loetarbeitsplatz/).
 
+- [Parts you have to buy](#Parts-you-have-to-buy)
 - [LaserCut Parts](#lasercut-parts)
 - [3D-printed Parts](#3d-printed-parts)
 - [Tools you need](#tools-you-need)
@@ -22,8 +23,12 @@ It all started with the idea of simplifying solder workshops for all kinds of hu
 
 ---
 
+## Parts you have to buy
+-> See the BoM.pdf or BoM.xlsx file
+
+
 ## LaserCut Parts
-The insert for the metal toolbox is made of 3mm thick mdf wood plates with size 560 x 500mm. The different colours stand for:
+The insert for the metal toolbox is made of 3mm thick MDF wood plates (at least 570 x 500mm). The different colours stand for:
 
 - Black: Cut part (line)
 - Green: Engrave part (fill)
