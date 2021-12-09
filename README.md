@@ -42,7 +42,7 @@ The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
 - side cutter
 - needle nose pliers
 - crimping tool
-- solder iron
+- solder iron (we use the Pinecil from pine64)
 - wire stripper
 - wood glue
 <img src="images/tools.jpg" width=300px alt="tools">
