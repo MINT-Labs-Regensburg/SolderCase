@@ -40,7 +40,7 @@ Please adjust your laser cutter.
 ## 3D-printed Parts
 The housing for the USB-PD converter can be found in the older "3Dprinted".
 Printed in PLA with 0.2mm layer. Printed with the Prusa Mini +.
-The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
+The cases for Pinecils was taken from [Printables](https://www.printables.com/model/237958-pinecil-ts100-ts101-ts80-ts80p-case-with-options-s).
 
 
 ## Tools you need
